@@ -3,10 +3,6 @@
 
 # Project is build by :
 
--Frontend - Ria and Amey.
-
--All Backend integrations - Aarnav.
-
 (Due to size github limit sampledata folder containing .obj .mtl files are uploaded) 
 
 # Technologies :
